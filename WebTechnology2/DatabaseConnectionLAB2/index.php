@@ -4,7 +4,7 @@
 
 <html>
     <head> 
-    <title>Index page </title>
+    <title>This is the index page also </title>
     </head>
 
     <body>
