@@ -1,0 +1,49 @@
+
+.carousel-inner{
+    height:80vh;
+}
+.carousel-caption{
+    top:20%;
+    left:25%;
+}
+
+.header-caption{
+    margin-top:20px;
+    left:30%;
+    position:absolute;
+}
+
+.header-content h1,
+.header-content h3{
+    text-align: center;
+    font-weight: 1000;
+    
+}
+.header-caption h1{
+    font-size: 500%;
+    text-transform:uppercase;
+    text-shadow: 1px 1px 20px rgb(158, 39, 169);
+    color: #fff;
+}
+  
+  .header-caption h3{
+    font-size: 200%;
+    font-weight: 500;
+    text-shadow: 1px 1px 15px rgb(100, 39, 169);
+    padding-bottom: 1rem;
+    color: #fff;
+  }
+
+.carousel-caption h1{
+  font-size: 500%;
+  text-transform:uppercase;
+  text-shadow: 1px 1px 20px rgb(158, 39, 169);
+  
+}
+
+.carousel-caption h3{
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 15px rgb(158, 39, 169);
+  padding-bottom: 1rem;
+}
