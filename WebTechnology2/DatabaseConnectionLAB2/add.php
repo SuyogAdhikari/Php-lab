@@ -20,7 +20,7 @@
                     $name = $_POST['txtname'];
                     $email = $_POST['txtemail'];
                     $pass = $_POST['txtpassword'];
-                    $password = md5('pass');
+                    $password = md5($pass);
                 
                     $query = "INSERT INTO users (fullname,email,password) values(:name, :email, :pwd)";
                     $stmt = $pdo->prepare($query);
