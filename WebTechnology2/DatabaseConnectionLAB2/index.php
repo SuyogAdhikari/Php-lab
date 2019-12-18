@@ -1,5 +1,7 @@
 <?php
     require_once('dbconn.php'); //Database Connection once  
+    require_once('auth.php'); //Database Connection once  
+
 ?>
 
 <html>
